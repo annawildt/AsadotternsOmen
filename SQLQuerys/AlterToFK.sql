@@ -1,0 +1,2 @@
+ALTER TABLE [dbo].[SceneDialog]
+ADD FOREIGN KEY (DialogID) REFERENCES Dialog(ID);

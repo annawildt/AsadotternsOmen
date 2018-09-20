@@ -1,0 +1,17 @@
+1	STRENGTH	Enhandssvärd	Du har lärt dig förmågan att fäktas med ett svärd	1	1
+5	STRENGTH	Tvåhandssvärd	Du har lärt dig att använda ett tvåhandssvärd	2	1
+8	STRENGTH	Dubbla enhandssvärd	Du kan nu använda två enhandssvärd i strid	4	1
+9	STRENGTH	Sköld	Du har lärt dig att använda din sköld som ett vapen	1	1
+10	STRENGTH	Megingjörd	Thors magiska bälte som ger dess bärare extrem styrka	7	2
+11	INTELLIGENCE	Glasögon	Du har fått ett par glasögon, nu kan samla kunskap genom böcker	1	1
+12	INTELLIGENCE	Lexikon	Ett uppslagsverk där du kan ta reda på lite om allt möjligt	1	1
+14	INTELLIGENCE	Smartphone	En smartphone uppkopplad mot internet för direkt tillgång till all världens information	4	1
+15	INTELLIGENCE	Gjallarhornet	Du har hittat Gjallarhornet för att tillkalla kunskapsguden Heimdal	7	2
+16	SPEED	Lätt rustning	En lättare rustning, med likvärdigt skydd men designad för att vara rörligare	1	1
+18	SPEED	Kevlar	Bättre skydd på begränsad yta, ännu lättare. 	2	1
+19	SPEED	Puma Bolt Evospeed	Löparskor som använts av Usain Bolt	3	1
+20	SPEED	Sleipner	Du har nu förmågan att kalla på Sleipner, världens snabbaste häst	7	2
+21	CHARISMA	Nimbusspegeln	En spegel att öva upp dina karisma	1	1
+22	CHARISMA	Sångens gåva	Den gudomliga egenskapen att pricka rätt toner	3	1
+23	CHARISMA	Influencer	Din närvaro på sociala medier och ökar värdet på ditt content	2	1
+24	CHARISMA	Livscoach Balder	Balder erbjuder sig att coach dig i ditt fortsatta äventyr	7	2
